@@ -13,7 +13,7 @@ ADMIN_ID = 6683318395
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Path to your binary
-BINARY_PATH = "./go"
+BINARY_PATH = "./nex"
 
 EXPIRY_DATE = datetime(2024, 12, 28)  # Set expiry date to 1st November 2024
 
